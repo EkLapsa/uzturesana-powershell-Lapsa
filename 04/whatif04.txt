@@ -1,0 +1,7 @@
+Name              Status StartType
+----              ------ ---------
+AppXSvc          Stopped Automatic
+edgeupdate       Stopped Automatic
+MapsBroker       Stopped Automatic
+sppsvc           Stopped Automatic
+TrustedInstaller Stopped Automati
