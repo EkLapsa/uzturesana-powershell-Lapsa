@@ -1,0 +1,2 @@
+Kļūdu ierakstu pēdējo 48 stundu laikā: 19
+Biežākais avots: Microsoft-Windows-BitLocker-Driver — 6 reizes
