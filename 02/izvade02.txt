@@ -1,0 +1,12 @@
+Name                      Id Atmiņa (MB)
+----                      -- -----------
+ShellExperienceHost     8848 72,5
+powershell               560 91,1
+dwm                     1364 91,6
+SearchHost              5660 97,3
+WindowsTerminal         3296 99,5
+msedgewebview2          6412 106,2
+StartMenuExperienceHost 5668 112,0
+Memory Compression      3164 149,6
+MsMpEng                 2160 170,2
+explorer                4304 265,8
