@@ -1,0 +1,6 @@
+Datora nosaukums: WIN11
+OS nosaukums: Microsoft Windows 11 Home
+Būvējuma numurs: 26100.1.amd64fre.ge_release.240331-1435
+Powershell versija: 5.1.26100.9444
+Datums: 10/14/2026 17:29:53
+Procesu skaits: 125
