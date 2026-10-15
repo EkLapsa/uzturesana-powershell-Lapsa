@@ -1,0 +1,128 @@
+System Idle Process Lietotājs: \
+System Lietotājs: \
+Registry Lietotājs: NT AUTHORITY\SYSTEM
+smss.exe Lietotājs: NT AUTHORITY\SYSTEM
+csrss.exe Lietotājs: NT AUTHORITY\SYSTEM
+wininit.exe Lietotājs: NT AUTHORITY\SYSTEM
+csrss.exe Lietotājs: NT AUTHORITY\SYSTEM
+winlogon.exe Lietotājs: NT AUTHORITY\SYSTEM
+services.exe Lietotājs: NT AUTHORITY\SYSTEM
+lsass.exe Lietotājs: NT AUTHORITY\SYSTEM
+fontdrvhost.exe Lietotājs: Font Driver Host\UMFD-1
+fontdrvhost.exe Lietotājs: Font Driver Host\UMFD-0
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\NETWORK SERVICE
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\LOCAL SERVICE
+dwm.exe Lietotājs: Window Manager\DWM-1
+svchost.exe Lietotājs: NT AUTHORITY\LOCAL SERVICE
+svchost.exe Lietotājs: NT AUTHORITY\LOCAL SERVICE
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\NETWORK SERVICE
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\LOCAL SERVICE
+svchost.exe Lietotājs: NT AUTHORITY\LOCAL SERVICE
+svchost.exe Lietotājs: NT AUTHORITY\LOCAL SERVICE
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\NETWORK SERVICE
+VBoxService.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\LOCAL SERVICE
+svchost.exe Lietotājs: NT AUTHORITY\LOCAL SERVICE
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\NETWORK SERVICE
+Memory Compression Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\LOCAL SERVICE
+svchost.exe Lietotājs: NT AUTHORITY\LOCAL SERVICE
+svchost.exe Lietotājs: NT AUTHORITY\LOCAL SERVICE
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\LOCAL SERVICE
+svchost.exe Lietotājs: NT AUTHORITY\LOCAL SERVICE
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\LOCAL SERVICE
+spoolsv.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\LOCAL SERVICE
+svchost.exe Lietotājs: NT AUTHORITY\NETWORK SERVICE
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\LOCAL SERVICE
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+MpDefenderCoreService.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+MsMpEng.exe Lietotājs: NT AUTHORITY\SYSTEM
+AggregatorHost.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\LOCAL SERVICE
+svchost.exe Lietotājs: NT AUTHORITY\LOCAL SERVICE
+svchost.exe Lietotājs: NT AUTHORITY\LOCAL SERVICE
+svchost.exe Lietotājs: NT AUTHORITY\LOCAL SERVICE
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+DefenderSessionHelper.exe Lietotājs: WIN11\vboxuser
+sihost.exe Lietotājs: WIN11\vboxuser
+svchost.exe Lietotājs: WIN11\vboxuser
+svchost.exe Lietotājs: WIN11\vboxuser
+svchost.exe Lietotājs: WIN11\vboxuser
+taskhostw.exe Lietotājs: WIN11\vboxuser
+svchost.exe Lietotājs: NT AUTHORITY\LOCAL SERVICE
+explorer.exe Lietotājs: WIN11\vboxuser
+ShellHost.exe Lietotājs: WIN11\vboxuser
+svchost.exe Lietotājs: WIN11\vboxuser
+CrossDeviceResume.exe Lietotājs: WIN11\vboxuser
+StartMenuExperienceHost.exe Lietotājs: WIN11\vboxuser
+SearchHost.exe Lietotājs: WIN11\vboxuser
+WidgetBoard.exe Lietotājs: WIN11\vboxuser
+WidgetService.exe Lietotājs: WIN11\vboxuser
+svchost.exe Lietotājs: WIN11\vboxuser
+RuntimeBroker.exe Lietotājs: WIN11\vboxuser
+msedgewebview2.exe Lietotājs: WIN11\vboxuser
+MicrosoftStartFeedProvider.exe Lietotājs: WIN11\vboxuser
+msedgewebview2.exe Lietotājs: WIN11\vboxuser
+msedgewebview2.exe Lietotājs: WIN11\vboxuser
+msedgewebview2.exe Lietotājs: WIN11\vboxuser
+msedgewebview2.exe Lietotājs: WIN11\vboxuser
+msedgewebview2.exe Lietotājs: WIN11\vboxuser
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+ctfmon.exe Lietotājs: WIN11\vboxuser
+NisSrv.exe Lietotājs: NT AUTHORITY\LOCAL SERVICE
+smartscreen.exe Lietotājs: WIN11\vboxuser
+SecurityHealthSystray.exe Lietotājs: WIN11\vboxuser
+SecurityHealthService.exe Lietotājs: NT AUTHORITY\SYSTEM
+VBoxTray.exe Lietotājs: WIN11\vboxuser
+OneDrive.exe Lietotājs: WIN11\vboxuser
+SearchIndexer.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+WindowsTerminal.exe Lietotājs: WIN11\vboxuser
+OpenConsole.exe Lietotājs: WIN11\vboxuser
+powershell.exe Lietotājs: WIN11\vboxuser
+taskhostw.exe Lietotājs: WIN11\vboxuser
+MicrosoftEdgeUpdate.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\NETWORK SERVICE
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+WmiPrvSE.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\LOCAL SERVICE
+MoNotificationUx.exe Lietotājs: WIN11\vboxuser
+setup.exe Lietotājs: NT AUTHORITY\SYSTEM
+WmiPrvSE.exe Lietotājs: NT AUTHORITY\NETWORK SERVICE
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\LOCAL SERVICE
+svchost.exe Lietotājs: NT AUTHORITY\SYSTEM
+svchost.exe Lietotājs: NT AUTHORITY\LOCAL SERVICE
+taskhostw.exe Lietotājs: NT AUTHORITY\SYSTEM
+sppsvc.exe Lietotājs: NT AUTHORITY\NETWORK SERVICE
