@@ -1,0 +1,17 @@
+Datora nosaukums: WIN11
+OS nosaukums: Microsoft Windows 11 Home
+Būvējuma numurs: 26100.1.amd64fre.ge_release.240331-1435
+Powershell versija: 5.1.26100.9444
+Datums: 10/15/2026 12:41:28
+Procesu skaits: 128
+
+Darbojoši servisi: 89
+Apturēti servisi: 170
+Servisu summa: 259
+
+Kļūdu ierakstu pēdējo 48 stundu laikā: 22
+Biežākais avots: Microsoft-Windows-BitLocker-Driver — 8 reizes
+
+C:: brīvi 45.29 GB, kopā 78.61 GB
+
+Atšķiras Procesu skaits, datums, Darbojoši servisi, Apturēti servisi, Kļūdu ierakstu pēdējo 48 stundu laikāun brīvā vieta diskā, jo tās vērtības ir atkarīgas no datora stāvokļa un tā, kādas programmas un pakalpojumi tajā darbojas.
