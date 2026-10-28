@@ -1,39 +1,3 @@
 # uzturesana-powershell-Lapsa
 
-1. Kļūda
-Skripts palaižas bez kļūdas un izvada piecus procesus. Tomēr atbilde nesakrīt ar
-sagaidāmo skripta atbildi. Kā tu to pamanītu un ko pārbaudītu vispirms?
 
-@ Pamanītu kādā secībā procesi ir izvadīti. Jāpārbauda vai procesi izvadīti attiecīgajā augošā vai dilstošā secībā, iespējams, ka ar select-object nav izvēlēti pareizie objekti.
-
-2. Kad izmantot PowerShell, kad Python?
-Tev jāuzraksta rīks, kas reizi nedēļā savāc informāciju par brīvo diska vietu desmit
-Windows datoros un saglabā to vienā kopīgā failā. Kuru valodu izvēlies un kāpēc?
-Kad izvēlētos otru?
-
-@ Es izvēlētos powershell, jo visiem datoriem ir windows operētājsistēma un tajos nav jāinstālē python. Python izmantotu tad, ja skripts būtu japalaiž dažādās operētājsistēmās.
-
-3. Atšķirība starp PowerShell (Windows) un Bash (Linux)
-PowerShell pa konveijeru (| simbolu komandrindā) sūta objektus, Bash sūta tekstu. Ko
-tas praktiski nozīmē, kad tev jāatlasa procesi, kas lieto vairāk par 100 MB?
-
-@ Tas nozīmē to, ka ar bash jāizmanto filtri, kas iet cauri visas izvades lielajam stringam, bet powershell var uzreiz izvēlēties konkrētu objektu. "where WS -gt 100MB"
-
-4. Administratora tiesības
-Kuras no šīm darbībām klases datorā izpildīsies un kuras ne? Ko tu varētu darīt ar tām, kas neizpildās? • nolasīt servisu statusu • apturēt servisu Spooler • izvadīt desmit lielākos procesus • mainīt izpildes politiku • saglabāt atskaiti CSV failā
-
-@ Izpildīsies servisu statusa nolasīšana, procesu izvade, atskaites saglabāšana un izpildes politikas mainīšana, bet spooler apturēšanai vajag administrātora tiesības.
-
-5. Datnes kodējums
-Audzēknis uzrakstīja CSV atskaiti. Atverot to Excel, latviešu burti ir sabojāti un visas
-kolonnas ir salipušas vienā. Nosauc abus problēmas cēloņus un kā tos labot!
-
-@ Audzēknis nesaglabāja csv failu ar pareizo kodējumu utf-8-sig un nenorādija semikolu, kā delimiter. r = csv.writer(f, delimiter=";")
-
-6. Pieeja pirms koda
-Tev iedod žurnālfailu ar 1200 rindām un jautā, kurš serviss kļūdā biežāk par pārējiem.
-Apraksti savu rīcību soli pa solim. Kodu rakstīt nevajag.
-
-@1. atvērtu failu ar teksa redaktorā, piemēram, Kate.
-2. Izmantotu meklēšanas rīku ierakstot "ERROR"
-3. No atlasītajām rindam izmantotu  filtrēšanas rīku.
